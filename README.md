@@ -42,8 +42,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
+<a href="https://twitter.com/abhijeetgauravm"><img src="https://img.shields.io/badge/-@abhijeetgauravm-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhijeet-gaurav-971b01a4/"><img src="https://img.shields.io/badge/-Abhijeet Gaurav-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br>
 <a href="mailto:abhijeetdav24aug@gmail.com"><img src="https://img.shields.io/badge/-abhijeetdav24aug@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a><br>
-<a href="https://twitter.com/abhijeetgauravm"><img src="https://img.shields.io/badge/-@abhijeetgauravm-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshMishra12&" alt="UtkarshMishra12" /></p> -->
