@@ -21,7 +21,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
-![C#](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bairesdev.com%2Ftechnologies%2Fc-sharp%2F&psig=AOvVaw3HjoWkL8PJp9VvPhi507bf&ust=1692729010294000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjk15KMse6AAxXE7jgGHZDzAP4Qr4kDegQIARA1)
+![C#](https://img.shields.io/badge/-C#-white?style=for-the-badge&logo=c#&logoColor=4B8BBE)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
