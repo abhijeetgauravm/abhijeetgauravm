@@ -39,6 +39,9 @@
 </a>
 </p>
 
+<a href= "https://meshery.layer5.io/user/762df0ef-b656-42e4-9c5f-c7f00f26536c?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/ui-ux/ui-ux.svg" alt = "UI/UX" /></a >
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
