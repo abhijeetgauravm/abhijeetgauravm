@@ -39,7 +39,8 @@
 </a>
 </p>
 
-<h3>The badges I got while contributing to Layer5- </h3>
+<h3>The badges I got while contributing to Open Source- </h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="804960db-cfc1-4daf-9f11-53ecbd5de68b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
 <a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.svg" alt = "First Design" /></a >
 
