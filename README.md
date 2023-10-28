@@ -40,8 +40,8 @@
 </p>
 
 <h3>The badges I got while contributing to Open Source- </h3>
-<a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
-<a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.svg" alt = "First Design" /></a >
+<a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="210px" height="260px" src = "https://badges.layer5.io/assets/badges/community/community.svg" alt = "Community" /></a >
+<a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="210px" height="260px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.svg" alt = "First Design" /></a >
 <a href= "https://meshery.layer5.io/user/c9432f12-f9d2-4c99-8704-8b750e42c023?tab=badges"><img width="210px" height="260px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" /></a >
 
 
