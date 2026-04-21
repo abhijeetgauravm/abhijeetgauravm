@@ -1,5 +1,4 @@
 <h1 align="center">Hi 😎, I'm Abhijeet Gaurav</h1>
-<h3 align="center">Web Developer and Open Source Contributor</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
